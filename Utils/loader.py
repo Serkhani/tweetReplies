@@ -2,7 +2,7 @@
 
 Okay, have to admit. This code is from StackOverflow. It's so efficient, that it's probably the best way to do it.
 Although, it is edited to use less threads.
-                - Elubum(Original Creator)
+                - Elebumm(Original Creator)
 """
 from itertools import cycle
 from shutil import get_terminal_size

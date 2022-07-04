@@ -1,5 +1,5 @@
 """
-Okay, have to admit. This code is from Elubum's RedditVideoMakerBot project
+Okay, have to admit. This code is from Elebumm's RedditVideoMakerBot project
 """
 from rich.console import Console
 from rich.markdown import Markdown

@@ -1,6 +1,6 @@
 """
 Setup Script for PA-Assist 
-    - Repurposed from Elubum's RedditVideoMakerBot
+    - Repurposed from Elebumm's RedditVideoMakerBot
 """
 
 # Imports
